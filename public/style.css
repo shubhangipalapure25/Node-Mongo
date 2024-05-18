@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+    
+}
+.msg{
+    background-color:lightblue;
+    height: 100px;
+    width: 250px;
+    
+}
+.chatBox{
+    display: inline-block;
+}
