@@ -1,1 +1,1 @@
-this project is node with mongoose db.
+this project is node with mongoose db
